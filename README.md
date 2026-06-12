@@ -90,9 +90,9 @@ jupyter notebook analisis_arriendos_santiago.ipynb
 ## 📊 Dashboard Power BI
 
 Screenshots del dashboard interactivo:
-
-*(agregar capturas aquí después de construir el dashboard)*
-
+![Resumen del Mercado](pagina1_resumen.png)
+![Precios por Comuna](pagina2_comunas.png)
+![Análisis de Departamentos](pagina3_departamentos.png)
 ---
 
 *Datos obtenidos de fuente pública con fines académicos y de portafolio profesional.*
