@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Identificar patrones del mercado de arriendos en Santiago para responder:
 - ¿Cuánto cuesta arrendar en cada comuna?
@@ -17,7 +17,7 @@ Identificar patrones del mercado de arriendos en Santiago para responder:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 ├── data/
@@ -36,7 +36,7 @@ Identificar patrones del mercado de arriendos en Santiago para responder:
 
 ---
 
-## 🔍 Metodología
+## Metodología
 
 1. **Fuente:** Dataset de Yapo.cl con 12.690 publicaciones de departamentos en la RM
 2. **Limpieza con Python (pandas):**
@@ -50,7 +50,7 @@ Identificar patrones del mercado de arriendos en Santiago para responder:
 
 ---
 
-## 📈 Principales hallazgos
+## Principales hallazgos
 
 | Indicador | Valor |
 |---|---|
@@ -63,7 +63,7 @@ Identificar patrones del mercado de arriendos en Santiago para responder:
 
 ---
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 - **Python:** pandas, matplotlib, numpy, re
 - **Jupyter Notebook**
@@ -71,7 +71,7 @@ Identificar patrones del mercado de arriendos en Santiago para responder:
 
 ---
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 # Clonar repositorio
